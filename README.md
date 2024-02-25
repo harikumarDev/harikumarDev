@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Kumar</h1>
-<h3 align="center">A passionate full stack developer using MERN stack and AWS</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 💬 Ask me about **C/C++, JavaScript, React, Node.js, MongoDB, Express.js, AWS**
 
