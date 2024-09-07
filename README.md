@@ -2,7 +2,6 @@
 
 - 💬 Ask me about **C/C++, JavaScript, React, Node.js, MongoDB, Express.js, AWS**
 
-- 📫 Contact@ Mail: **hari70319@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
