@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari Kumar</h1>
 
-- 💬 Ask me about **C/C++, JavaScript, React, Node.js, MongoDB, Express.js, AWS**
+- An Engineer exploring Software and Technology
 
 
 <h3 align="left">Languages and Tools:</h3>
